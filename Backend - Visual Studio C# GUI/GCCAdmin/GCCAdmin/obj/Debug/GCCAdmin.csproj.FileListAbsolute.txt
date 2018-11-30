@@ -1,0 +1,15 @@
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\bin\Debug\GCCAdmin.exe.config
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\bin\Debug\GCCAdmin.exe
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\bin\Debug\GCCAdmin.pdb
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\bin\Debug\MySql.Data.dll
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\bin\Debug\Google.Protobuf.dll
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\bin\Debug\MySql.Data.xml
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.csprojAssemblyReference.cache
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.Form1.resources
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.Properties.Resources.resources
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.csproj.GenerateResource.cache
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.csproj.CopyComplete
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.exe
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.pdb
+C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.inventory.resources
