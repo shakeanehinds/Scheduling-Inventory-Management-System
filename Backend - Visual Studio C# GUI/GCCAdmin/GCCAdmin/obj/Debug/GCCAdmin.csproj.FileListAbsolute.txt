@@ -13,3 +13,18 @@ C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.csproj
 C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.exe
 C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.pdb
 C:\Users\Shakeane Hinds\source\repos\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.inventory.resources
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\bin\Debug\GCCAdmin.exe.config
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\bin\Debug\GCCAdmin.exe
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\bin\Debug\GCCAdmin.pdb
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\bin\Debug\Google.Protobuf.dll
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\bin\Debug\MySql.Data.xml
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.csprojAssemblyReference.cache
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.Form1.resources
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.Properties.Resources.resources
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.inventory.resources
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.csproj.GenerateResource.cache
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.csproj.CopyComplete
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.exe
+C:\xampp\htdocs\Software Engineering\Backend - Visual Studio C# GUI\GCCAdmin\GCCAdmin\obj\Debug\GCCAdmin.pdb
